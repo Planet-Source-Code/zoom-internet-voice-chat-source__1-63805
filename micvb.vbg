@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=send\send.vbp
+StartupProject=recv\recv.vbp
